@@ -8,5 +8,5 @@
 больше нравится веб-разработка. 
 В ноябре 2022 года уволился с должности ведущего специалиста из ООО «НК «Роснефть» - НТЦ».
 В данный момент занимаюсь разработкой на PHP, SQL, HTML, CSS.
-email: olegseredenko@bk.ru
+email: olegseredenko@zohomail.com
 telegram: @wx1001
